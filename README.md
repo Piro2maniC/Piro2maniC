@@ -22,6 +22,7 @@ I'm currently working on:
 A mobile app built with Expo and TypeScript
 Expanding my knowledge of cloud computing and AI integration
 Collaborating on open-source projects to refine my coding skills
+
 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/david-tolmay)
 Email: davidtolmay@gmail.com
