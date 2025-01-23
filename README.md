@@ -13,6 +13,7 @@ Databases: MongoDB, MySQL
 DevOps & Tools: Docker, Git, GitHub Actions, Postman, Jest
 Cloud Services: Azure, AWS
 AI Integration: OpenAI, Google Gemini
+
 🛠 Productivity Tools:
 Microsoft Office Suite, Google Suite, JIRA, Confluence, Kibana, Zendesk
 
