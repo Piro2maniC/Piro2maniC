@@ -30,6 +30,5 @@ Expanding my knowledge of cloud computing and AI integration
 Collaborating on open-source projects to refine my coding skills
 📫 Let's Connect
 [LinkedIn](https://www.linkedin.com/in/david-tolmay)
-[GitHub](www.github.com/Piro2maniC)
-[Email](davidtolmay@gmail.com)
+Email: davidtolmay@gmail.com
 Feel free to reach out if you'd like to collaborate or just chat about tech and development!
