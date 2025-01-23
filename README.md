@@ -16,12 +16,6 @@ AI Integration: OpenAI, Google Gemini
 🛠 Productivity Tools:
 Microsoft Office Suite, Google Suite, JIRA, Confluence, Kibana, Zendesk
 
-🏆 Experience
-Service Support Analyst – System maintenance, software migrations, and data analysis
-Small Business Owner – Problem-solving, efficiency, and quality craftsmanship
-Customer Service Professional – Strong communication and adaptability under pressure
-My experience across different industries has honed my problem-solving abilities and given me a unique perspective when approaching software development challenges.
-
 🎯 What I'm Working On
 I'm currently working on:
 
