@@ -29,7 +29,7 @@ A mobile app built with Expo and TypeScript
 Expanding my knowledge of cloud computing and AI integration
 Collaborating on open-source projects to refine my coding skills
 📫 Let's Connect
-LinkedIn: linkedin.com/in/david-tolmay
-GitHub: github.com/Piro2maniC
-Email: davidtolmay@gmail.com
+[LinkedIn](www.linkedin.com/in/david-tolmay)
+[GitHub](www.github.com/Piro2maniC)
+[Email](davidtolmay@gmail.com)
 Feel free to reach out if you'd like to collaborate or just chat about tech and development!
